@@ -1,19 +1,28 @@
 # TizWildin-Aurora
 
-Original synth melody pack with 3 distinct segments, BPM/key tracked in filenames.
+Original synth melody pack built around three distinct neon/cinematic segments with BPM and key embedded in filenames.
 
-## Included loops
-- Aurora Rise — 104 BPM — A Lydian — uplifting, glassy, neon ascent
-- Aurora Theft — 96 BPM — E Lydian — wide, airy, floating neon theft
-- Prism Relay — 132 BPM — C# Dorian — fast, staccato, synthetic, restless
+## Included segments
+| Segment | BPM | Key | Character |
+|---|---:|---|---|
+| Aurora Rise | 104 | A Lydian | uplifting, glassy, neon ascent |
+| Aurora Theft | 96 | E Lydian | wide, airy, floating neon theft |
+| Prism Relay | 132 | C# Dorian | fast, staccato, synthetic, restless |
 
 ## Structure
-- `Loops/` full stereo 24-bit WAV loops
-- `Stems/` per-segment stems
-- `pack_manifest.json` metadata
-- `Scripts/` source generator snapshot
+- `Loops/` full stereo loop exports
+- `Stems/01_Aurora_Rise/` segment stems
+- `Stems/02_Aurora_Theft/` segment stems
+- `Stems/03_Prism_Relay/` segment stems
+- `Stems/Demo/` per-segment demo renders
+- `TizWildin - Aurora Theft - 96 BPM E Lydian.wav` standalone featured render at the repo root
+- `metadata.json` song-level metadata for Aurora Theft
+- `pack_manifest.json` pack-level segment manifest
+- `generator_snapshot.py` generator snapshot preserved at the repo root
 
-## Notes
+## Format
 - 44.1 kHz stereo
 - 24-bit PCM WAV
-- all content is original and generated for this pack
+- Ableton `.asd` analysis sidecars preserved with the current pack state
+
+All content is original material generated for this pack.
