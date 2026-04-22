@@ -1,0 +1,28 @@
+{
+  "pack": "TizWildin-Aurora",
+  "sample_rate": 44100,
+  "bit_depth": 24,
+  "segments": [
+    {
+      "title": "Aurora Rise",
+      "bpm": 104,
+      "key": "A Lydian",
+      "file": "TizWildin - Aurora Rise - 104 BPM - A Lydian.wav",
+      "mood": "uplifting, glassy, neon ascent"
+    },
+    {
+      "title": "Aurora Theft",
+      "bpm": 96,
+      "key": "E Lydian",
+      "file": "TizWildin - Aurora Theft - 96 BPM - E Lydian.wav",
+      "mood": "wide, airy, floating neon theft"
+    },
+    {
+      "title": "Prism Relay",
+      "bpm": 132,
+      "key": "C# Dorian",
+      "file": "TizWildin - Prism Relay - 132 BPM - C# Dorian.wav",
+      "mood": "fast, staccato, synthetic, restless"
+    }
+  ]
+}
