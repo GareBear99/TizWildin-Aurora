@@ -1,0 +1,7 @@
+TizWildin NovaDrift MIDI Reference
+BPM: 118
+Key: F# minor
+
+Chord blocks: F#m(add7/11) -> Dmaj7(#11 color) -> Amaj7 -> E7sus color
+Arp pattern: F#4 A4 C#5 E5 C#5 A4 G#4 E4
+Lead hook enters in bars 5 and 13. Use the JSON for exact note timing.

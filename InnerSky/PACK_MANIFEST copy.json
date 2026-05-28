@@ -1,0 +1,174 @@
+[
+  {
+    "file": "Construction_Kits/Kit_01_Afterglow_124BPM_Amin/Kit_01_Afterglow_124BPM_Amin_01_Drums_FullLoop_124BPM.wav",
+    "bpm": 124,
+    "key": "A minor",
+    "type": "construction_stem"
+  },
+  {
+    "file": "Construction_Kits/Kit_01_Afterglow_124BPM_Amin/Kit_01_Afterglow_124BPM_Amin_02_Bass_SubPulse_124BPM.wav",
+    "bpm": 124,
+    "key": "A minor",
+    "type": "construction_stem"
+  },
+  {
+    "file": "Construction_Kits/Kit_01_Afterglow_124BPM_Amin/Kit_01_Afterglow_124BPM_Amin_03_Chords_WidePad_124BPM.wav",
+    "bpm": 124,
+    "key": "A minor",
+    "type": "construction_stem"
+  },
+  {
+    "file": "Construction_Kits/Kit_01_Afterglow_124BPM_Amin/Kit_01_Afterglow_124BPM_Amin_04_Arp_GlassMotion_124BPM.wav",
+    "bpm": 124,
+    "key": "A minor",
+    "type": "construction_stem"
+  },
+  {
+    "file": "Construction_Kits/Kit_01_Afterglow_124BPM_Amin/Kit_01_Afterglow_124BPM_Amin_05_Lead_OriginalHook_124BPM.wav",
+    "bpm": 124,
+    "key": "A minor",
+    "type": "construction_stem"
+  },
+  {
+    "file": "Construction_Kits/Kit_01_Afterglow_124BPM_Amin/Kit_01_Afterglow_124BPM_Amin_06_FX_RisersImpacts_124BPM.wav",
+    "bpm": 124,
+    "key": "A minor",
+    "type": "construction_stem"
+  },
+  {
+    "file": "Construction_Kits/Kit_01_Afterglow_124BPM_Amin/Kit_01_Afterglow_124BPM_Amin_00_FULL_DEMO_MIX_124BPM.wav",
+    "bpm": 124,
+    "key": "A minor",
+    "type": "construction_stem"
+  },
+  {
+    "file": "MIDI/Kit_01_Afterglow_124BPM_Amin_chords_bass_arp_lead.mid",
+    "bpm": 124,
+    "key": "A minor",
+    "type": "midi_reference"
+  },
+  {
+    "file": "Construction_Kits/Kit_02_GlassHorizon_122BPM_Fsharpmin/Kit_02_GlassHorizon_122BPM_Fsharpmin_01_Drums_FullLoop_122BPM.wav",
+    "bpm": 122,
+    "key": "F# minor",
+    "type": "construction_stem"
+  },
+  {
+    "file": "Construction_Kits/Kit_02_GlassHorizon_122BPM_Fsharpmin/Kit_02_GlassHorizon_122BPM_Fsharpmin_02_Bass_SubPulse_122BPM.wav",
+    "bpm": 122,
+    "key": "F# minor",
+    "type": "construction_stem"
+  },
+  {
+    "file": "Construction_Kits/Kit_02_GlassHorizon_122BPM_Fsharpmin/Kit_02_GlassHorizon_122BPM_Fsharpmin_03_Chords_WidePad_122BPM.wav",
+    "bpm": 122,
+    "key": "F# minor",
+    "type": "construction_stem"
+  },
+  {
+    "file": "Construction_Kits/Kit_02_GlassHorizon_122BPM_Fsharpmin/Kit_02_GlassHorizon_122BPM_Fsharpmin_04_Arp_GlassMotion_122BPM.wav",
+    "bpm": 122,
+    "key": "F# minor",
+    "type": "construction_stem"
+  },
+  {
+    "file": "Construction_Kits/Kit_02_GlassHorizon_122BPM_Fsharpmin/Kit_02_GlassHorizon_122BPM_Fsharpmin_05_Lead_OriginalHook_122BPM.wav",
+    "bpm": 122,
+    "key": "F# minor",
+    "type": "construction_stem"
+  },
+  {
+    "file": "Construction_Kits/Kit_02_GlassHorizon_122BPM_Fsharpmin/Kit_02_GlassHorizon_122BPM_Fsharpmin_06_FX_RisersImpacts_122BPM.wav",
+    "bpm": 122,
+    "key": "F# minor",
+    "type": "construction_stem"
+  },
+  {
+    "file": "Construction_Kits/Kit_02_GlassHorizon_122BPM_Fsharpmin/Kit_02_GlassHorizon_122BPM_Fsharpmin_00_FULL_DEMO_MIX_122BPM.wav",
+    "bpm": 122,
+    "key": "F# minor",
+    "type": "construction_stem"
+  },
+  {
+    "file": "MIDI/Kit_02_GlassHorizon_122BPM_Fsharpmin_chords_bass_arp_lead.mid",
+    "bpm": 122,
+    "key": "F# minor",
+    "type": "midi_reference"
+  },
+  {
+    "file": "Construction_Kits/Kit_03_NightBloom_126BPM_Dmin/Kit_03_NightBloom_126BPM_Dmin_01_Drums_FullLoop_126BPM.wav",
+    "bpm": 126,
+    "key": "D minor",
+    "type": "construction_stem"
+  },
+  {
+    "file": "Construction_Kits/Kit_03_NightBloom_126BPM_Dmin/Kit_03_NightBloom_126BPM_Dmin_02_Bass_SubPulse_126BPM.wav",
+    "bpm": 126,
+    "key": "D minor",
+    "type": "construction_stem"
+  },
+  {
+    "file": "Construction_Kits/Kit_03_NightBloom_126BPM_Dmin/Kit_03_NightBloom_126BPM_Dmin_03_Chords_WidePad_126BPM.wav",
+    "bpm": 126,
+    "key": "D minor",
+    "type": "construction_stem"
+  },
+  {
+    "file": "Construction_Kits/Kit_03_NightBloom_126BPM_Dmin/Kit_03_NightBloom_126BPM_Dmin_04_Arp_GlassMotion_126BPM.wav",
+    "bpm": 126,
+    "key": "D minor",
+    "type": "construction_stem"
+  },
+  {
+    "file": "Construction_Kits/Kit_03_NightBloom_126BPM_Dmin/Kit_03_NightBloom_126BPM_Dmin_05_Lead_OriginalHook_126BPM.wav",
+    "bpm": 126,
+    "key": "D minor",
+    "type": "construction_stem"
+  },
+  {
+    "file": "Construction_Kits/Kit_03_NightBloom_126BPM_Dmin/Kit_03_NightBloom_126BPM_Dmin_06_FX_RisersImpacts_126BPM.wav",
+    "bpm": 126,
+    "key": "D minor",
+    "type": "construction_stem"
+  },
+  {
+    "file": "Construction_Kits/Kit_03_NightBloom_126BPM_Dmin/Kit_03_NightBloom_126BPM_Dmin_00_FULL_DEMO_MIX_126BPM.wav",
+    "bpm": 126,
+    "key": "D minor",
+    "type": "construction_stem"
+  },
+  {
+    "file": "MIDI/Kit_03_NightBloom_126BPM_Dmin_chords_bass_arp_lead.mid",
+    "bpm": 126,
+    "key": "D minor",
+    "type": "midi_reference"
+  },
+  {
+    "file": "One_Shots/Kick_DeepClean_C.wav",
+    "type": "one_shot"
+  },
+  {
+    "file": "One_Shots/Clap_WideAir.wav",
+    "type": "one_shot"
+  },
+  {
+    "file": "One_Shots/Hat_Tight16.wav",
+    "type": "one_shot"
+  },
+  {
+    "file": "One_Shots/OpenHat_Shimmer.wav",
+    "type": "one_shot"
+  },
+  {
+    "file": "One_Shots/Impact_SubGlass.wav",
+    "type": "one_shot"
+  },
+  {
+    "file": "One_Shots/Pluck_Amin_A4.wav",
+    "type": "one_shot"
+  },
+  {
+    "file": "One_Shots/Bass_OneShot_A1.wav",
+    "type": "one_shot"
+  }
+]
