@@ -1,5 +1,5 @@
 <!-- tizwildin-pricing:start -->
-## 💎 TizWildin Aurora — **$1 USD** on paid platforms · **free** on GitHub + TizWildin website
+## 💎 TizWildin Aurora — **$4 USD** on paid platforms · **free** on GitHub + TizWildin website
 
 This pack sells for **$1 USD** on Bandcamp, Looperman, Sample Focus, Splice, and other commercial sample platforms — and is **free forever** from the official channels:
 
